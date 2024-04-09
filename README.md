@@ -32,3 +32,9 @@ comandos basicos (en el modo de edición)
 6. Ctr + r => to cut un elemento
 7. h => hide un elemento
 8. alt + h => to display hidden elements
+
+## trabajos
+
+1. City: Una localidad ficticia sencilla. 
+2. Piramidal:  Un pequeño templo con forma de pirámide.
+3. Room: El lugar donde se encuentra una residencia.
